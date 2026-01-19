@@ -1,0 +1,10 @@
+# Ignore all files and directories except those in this portfolio folder
+../*
+../../*
+../../../*
+
+# But allow the portfolio directory contents
+!index.html
+!netlify.toml
+!README.md
+!.gitignore
